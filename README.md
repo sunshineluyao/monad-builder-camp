@@ -1,4 +1,4 @@
-# Your Intensive Co-learning Name
+# Web3 Internship Program - Monad Builder Camp
 
 ## Introduction
 
@@ -14,20 +14,20 @@ Target Audience placeholder
 
 ## Registration Period
 
-- Registration Start Date: 
-- Registration End Date: 
+- Registration Start Date: 2026-06-23
+- Registration End Date: 2026-07-05
 
 ## Study Duration
 
-- Study Start Date: 
-- Study End Date: 
+- Study Start Date: 2026-07-06
+- Study End Date: 2026-08-07
 
 ## Initiator
 
-- Name: 
-- GitHub ID: 
-- Telegram: 
-- Email: 
+- Name: Marcus
+- GitHub ID: MRzzz-cyber
+- Telegram: Marcuszheng
+- Email: zqsanjingshou@gmail.com
 
 ## Organizations
 
