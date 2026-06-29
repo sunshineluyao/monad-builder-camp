@@ -63,9 +63,7 @@ Telegram：
 
 ## Learning Materials / Course Schedule
 
-Full path:
-
-**Web3 fundamentals → on-chain interaction → smart contracts and AI-assisted development → Monad testnet practice → hackathon demo → portfolio building and opportunity matching**
+Full path:**Web3 fundamentals → on-chain interaction → smart contracts and AI-assisted development → Monad testnet practice → hackathon demo → portfolio building and opportunity matching**
 
 **Week 1: Web3 Fundamentals and First On-chain Interaction**
 
