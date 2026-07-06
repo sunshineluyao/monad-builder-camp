@@ -610,7 +610,7 @@ By completing the program, participants will leave with:
 | [785443956a-sketch](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/785443956a-sketch.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Goro31crypto](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Goro31crypto.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [sennkuwu](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/sennkuwu.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [jensen-Zeng](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/jensen-Zeng.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [jensen-Zeng](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/jensen-Zeng.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [linkmedcs](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/linkmedcs.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [sunshineluyao](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/sunshineluyao.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [niniyvette13-prog](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/niniyvette13-prog.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -802,6 +802,7 @@ By completing the program, participants will leave with:
 | [AuralRain](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/AuralRain.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [NotBadSlime](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/NotBadSlime.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
