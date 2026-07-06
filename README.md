@@ -275,7 +275,7 @@ By completing the program, participants will leave with:
 | [ding-dong-dong](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/ding-dong-dong.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [playerlxl00](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/playerlxl00.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yang02140124](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/yang02140124.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [xuanxuanhene](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/xuanxuanhene.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [xuanxuanhene](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/xuanxuanhene.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [kira-061](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/kira-061.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Monica06161127](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Monica06161127.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [ad1597](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/ad1597.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -793,6 +793,7 @@ By completing the program, participants will leave with:
 | [henanshifandaxue](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/henanshifandaxue.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Junx20710](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Junx20710.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
