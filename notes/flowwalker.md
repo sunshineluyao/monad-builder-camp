@@ -17,8 +17,10 @@ Web3 暑期实习计划 - Monad Buidler Camp
 <!-- Content_START -->
 # 2026-07-06
 <!-- DAILY_CHECKIN_2026-07-06_START -->
-# web3小白入门笔记
+# 区块链&以太坊
 
+> _web3小白入门笔记_
+> 
 > _website:_ [_https://web3intern.xyz/zh/_](https://web3intern.xyz/zh/)
 > 
 > _my-focus: 智能合约开发、区块链基础等技术章节_
@@ -108,7 +110,7 @@ Web3 暑期实习计划 - Monad Buidler Camp
         
 -   代币激励（维持网络运行）
     
-    -   节点提供服务获得收入——矿工->挖矿->奖励
+    -   网络服务商以节点提供服务获得收入——矿工->挖矿->奖励
         
     -   节点收入
         
@@ -151,6 +153,60 @@ Web3 暑期实习计划 - Monad Buidler Camp
 
 ## **web演进**
 
-## **others**
+## **以太坊（Ethereum）**
+
+### 概览
+
+定位："区块链2.0"
+
+目标：成为全球范围内的“世界计算机”
+
+-   原生代币：以太币（ETH）
+    
+-   支持**智能合约**的全球共享计算机
+    
+    -   代码自动执行规则
+        
+    -   支持
+        
+        -   自构建去中心化金融（DeFi，Decentralized Finance）
+            
+        -   数字艺术品，非同质化代币（NFT，Non-Fungible Token）
+            
+        -   去中心化自治组织（DAO， Decentralized Autonomous Organization）
+            
+        -   等创新Dapps
+            
+    -   PoW->PoS（2022升级，The Merge事件）
+        
+    -   分片和Layer2技术
+        
+
+| 维度 | 比特币（BITCOIN） | 以太坊（ETHEREUM） |
+| --- | --- | --- |
+| 目标与定位 | 去中心化的数字货币，强调安全、稳定和稀缺性（总量 2100 万枚） | 去中心化平台，支持智能合约和 Dapps，定位为"区块链 2.0" |
+| 编程能力 | 脚本语言有限，仅支持简单的交易验证逻辑 | 图灵完备的编程语言（如 Solidity），可开发复杂智能合约 |
+| 共识机制 | 工作量证明（PoW），矿工通过算力竞争记账权 | 从 PoW 转向权益证明（PoS），通过 The Merge 实现能源效率优化 |
+| 交易速度 | 每 10 分钟生成一个区块，交易确认较慢 | 区块时间约 12 秒，交易确认更快，适合高频应用 |
+| 经济模型 | 总量固定，强调抗通胀属性 | 供应灵活，通过 EIP-1559 等机制可能呈现通缩趋势 |
+
+> _TPS ，_ **_Transactions Per Second_**
+> 
+> _The Merge:_
+> 
+> -   _开通信标链（Beacon Chain）执行PoS共识_
+>     
+> -   _双链运行：主网挖矿，信标链独立验证_
+>     
+> -   _关闭PoW，共识机制插接，_
+>     
+>     -   _执行层：处理交易、智能合约（原主网）_
+>         
+>     -   _共识层：管理验证者、确定区块顺序（信标链）_
+>         
+
+### PoS机制
+
+### 智能合约（Smart Contracts）
 <!-- DAILY_CHECKIN_2026-07-06_END -->
 <!-- Content_END -->
