@@ -374,7 +374,7 @@ By completing the program, participants will leave with:
 | [SKY-shang1010](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/SKY-shang1010.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yue05x](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/yue05x.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [wenyaohuang](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/wenyaohuang.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [ZP111999](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/ZP111999.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [ZP111999](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/ZP111999.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [LinzhaoxiCelia](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/LinzhaoxiCelia.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [imkatr1na](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/imkatr1na.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [onlyoneAlexia](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/onlyoneAlexia.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -793,6 +793,7 @@ By completing the program, participants will leave with:
 | [henanshifandaxue](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/henanshifandaxue.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Junx20710](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Junx20710.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
