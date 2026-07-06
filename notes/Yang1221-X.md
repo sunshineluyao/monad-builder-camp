@@ -36,13 +36,7 @@ Web3 暑期实习计划 - Monad Buidler Camp
 
 ### 1.2 Monad Testnet 网络参数
 
-| 参数 | 值 |
-| 网络名称 | Monad Testnet |
-| Chain ID | 10143 |
-| RPC URL | https://testnet-rpc.monad.xyz |
-| 货币符号 | MON |
-| 区块浏览器 | https://testnet.monadscan.com |
-| 水龙头（领测试币） | https://faucet.monad.xyz |
+| 参数 | 值 | | 网络名称 | Monad Testnet | | Chain ID | 10143 | | RPC URL | [https://testnet-rpc.monad.xyz](https://testnet-rpc.monad.xyz) | | 货币符号 | MON | | 区块浏览器 | [https://testnet.monadscan.com](https://testnet.monadscan.com) | | 水龙头（领测试币） | [https://faucet.monad.xyz](https://faucet.monad.xyz) |
 
 ### 1.3 添加网络的方法
 
@@ -52,13 +46,7 @@ Web3 暑期实习计划 - Monad Buidler Camp
 
 ### 1.4 关键概念
 
-| 概念 | 通俗解释 |
-| 钱包地址 | 类似银行卡号，0x 开头，公开的，别人可以给你转币 |
-| 私钥 / 助记词 | 类似银行卡密码 + 身份证，绝不能告诉任何人，丢了找不回 |
-| 测试网 | 区块链的”模拟考场”，币是假的，用来练手，没有实际价值 |
-| 主网 | 真实的区块链网络，上面的币有真实价值 |
-| Chain ID | 每条链的身份证号，用来区分不同的区块链网络 |
-| RPC | 钱包和区块链通信的接口，类似”客服电话” |
+| 概念 | 通俗解释 | | 钱包地址 | 类似银行卡号，0x 开头，公开的，别人可以给你转币 | | 私钥 / 助记词 | 类似银行卡密码 + 身份证，绝不能告诉任何人，丢了找不回 | | 测试网 | 区块链的”模拟考场”，币是假的，用来练手，没有实际价值 | | 主网 | 真实的区块链网络，上面的币有真实价值 | | Chain ID | 每条链的身份证号，用来区分不同的区块链网络 | | RPC | 钱包和区块链通信的接口，类似”客服电话” |
 
 * * *
 
@@ -66,14 +54,7 @@ Web3 暑期实习计划 - Monad Buidler Camp
 
 ### 2.1 交易信息
 
-| 项目 | 内容 |
-| Transaction Hash | 0x651123a9eeaecb52545a2f0c8d9bacb3439bf8ab7acc768ca53d706b47b0c47d |
-| 交易状态 | ✅ Success（成功） |
-| From（发送方） | 0xFC5CD8E72b44Bf4b81b5436B667aa727e09Fb5A2 |
-| To（接收方） | 0x000000000000000000000000000000000000dEaD（黑洞地址） |
-| Value（转账金额） | 0.1 MON |
-| Transaction Fee（手续费） | 0.0022 MON |
-| 所在区块 | #42708000 |
+| 项目 | 内容 | | Transaction Hash | 0x651123a9eeaecb52545a2f0c8d9bacb3439bf8ab7acc768ca53d706b47b0c47d | | 交易状态 | ✅ Success（成功） | | From（发送方） | 0xFC5CD8E72b44Bf4b81b5436B667aa727e09Fb5A2 | | To（接收方） | 0x000000000000000000000000000000000000dEaD（黑洞地址） | | Value（转账金额） | 0.1 MON | | Transaction Fee（手续费） | 0.0022 MON | | 所在区块 | #42708000 |
 
 ### 2.2 操作步骤
 
@@ -87,14 +68,7 @@ Web3 暑期实习计划 - Monad Buidler Camp
 
 ### 2.3 交易详情字段解读
 
-| 字段 | 含义 |
-| Transaction Hash | 交易的唯一身份证号，每笔交易都不一样 |
-| Status | 交易状态：Success 成功 / Fail 失败 |
-| Block | 这笔交易被打包进了第几个区块 |
-| Block Confirmations | 区块确认数，越多越安全 |
-| From / To | 谁转的 → 转给谁 |
-| Value | 转了多少币 |
-| Gas Price / Transaction Fee | 矿工费，给验证节点的报酬 |
+| 字段 | 含义 | | Transaction Hash | 交易的唯一身份证号，每笔交易都不一样 | | Status | 交易状态：Success 成功 / Fail 失败 | | Block | 这笔交易被打包进了第几个区块 | | Block Confirmations | 区块确认数，越多越安全 | | From / To | 谁转的 → 转给谁 | | Value | 转了多少币 | | Gas Price / Transaction Fee | 矿工费，给验证节点的报酬 |
 
 ### 2.4 关键概念：Gas（矿工费）
 
@@ -110,12 +84,7 @@ Web3 暑期实习计划 - Monad Buidler Camp
 
 ## 三、链上产品 vs 普通互联网产品
 
-| 对比维度 | 普通互联网产品 | 链上产品 |
-| 账户体系 | 手机号/邮箱注册，公司管账号 | 钱包地址，没有”注册”，没人能封号 |
-| 数据存储 | 存在公司服务器上（中心化） | 存在区块链上，全网节点共同维护（去中心化） |
-| 交易审核 | 平台审核，可以撤回/冻结 | 代码自动执行，转了就转了，没人能撤销 |
-| 透明度 | 只有平台能看到数据 | 所有交易公开透明，任何人都能查 |
-| 谁负责 | 出问题找客服/平台 | 自己负责自己的资产，没有客服 |
+| 对比维度 | 普通互联网产品 | 链上产品 | | 账户体系 | 手机号/邮箱注册，公司管账号 | 钱包地址，没有”注册”，没人能封号 | | 数据存储 | 存在公司服务器上（中心化） | 存在区块链上，全网节点共同维护（去中心化） | | 交易审核 | 平台审核，可以撤回/冻结 | 代码自动执行，转了就转了，没人能撤销 | | 透明度 | 只有平台能看到数据 | 所有交易公开透明，任何人都能查 | | 谁负责 | 出问题找客服/平台 | 自己负责自己的资产，没有客服 |
 
 * * *
 
