@@ -207,7 +207,7 @@ By completing the program, participants will leave with:
 | [calla7777777](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/calla7777777.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [anna0608-png](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/anna0608-png.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [byby123byby](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/byby123byby.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [xixiaoqi-art](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/xixiaoqi-art.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [xixiaoqi-art](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/xixiaoqi-art.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yang2267251737-cmd](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/yang2267251737-cmd.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [emptytouch](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/emptytouch.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [manningdereon-tech](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/manningdereon-tech.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -807,6 +807,7 @@ By completing the program, participants will leave with:
 | [pwp041](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/pwp041.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Cool-CoCo](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Cool-CoCo.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
