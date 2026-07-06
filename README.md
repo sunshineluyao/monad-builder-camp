@@ -727,7 +727,7 @@ By completing the program, participants will leave with:
 | [zhiyong1997](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/zhiyong1997.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [kassymoon](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/kassymoon.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [wqw845950341-cell](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/wqw845950341-cell.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [sea77126](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/sea77126.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [sea77126](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/sea77126.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [KevinYZH](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/KevinYZH.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Dawnener](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Dawnener.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [NauxGB](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/NauxGB.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -801,6 +801,7 @@ By completing the program, participants will leave with:
 | [leopc999](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/leopc999.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [AuralRain](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/AuralRain.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
