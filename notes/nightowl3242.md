@@ -1,5 +1,5 @@
 ---
-timezone: UTC+8
+timezone: UTC+6
 ---
 
 # nightowl3242
@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-Web3 暑期实习计划 - Monad Buidler Camp
+应用统计学专业大二
 
 ## Notes
 
