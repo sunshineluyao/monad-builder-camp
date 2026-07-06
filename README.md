@@ -801,7 +801,9 @@ By completing the program, participants will leave with:
 | [leopc999](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/leopc999.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [AuralRain](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/AuralRain.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [NotBadSlime](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/NotBadSlime.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Alittlenoob693](https://github.com/IntensiveCoLearning/monad-builder-camp/blob/main/notes/Alittlenoob693.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
