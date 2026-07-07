@@ -1,5 +1,5 @@
 ---
-timezone: UTC+8
+timezone: UTC+1
 ---
 
 # eunicefung88888-star
@@ -15,6 +15,8 @@ Web3 暑期实习计划 - Monad Buidler Camp
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-07-06
+<!-- DAILY_CHECKIN_2026-07-06_START -->
+了解了co- learning的知识
+<!-- DAILY_CHECKIN_2026-07-06_END -->
 <!-- Content_END -->

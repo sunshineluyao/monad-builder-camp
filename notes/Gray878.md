@@ -15,6 +15,14 @@ Web3 暑期实习计划 - Monad Buidler Camp
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-06
+<!-- DAILY_CHECKIN_2026-07-06_START -->
+1.选择了助教
 
+2.跟xiaohai进行互动提问
 
+3.尝试了测试币的获取
+
+4.学习实习手册
+<!-- DAILY_CHECKIN_2026-07-06_END -->
 <!-- Content_END -->

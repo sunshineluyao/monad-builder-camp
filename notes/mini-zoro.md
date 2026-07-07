@@ -15,6 +15,33 @@ Web3 暑期实习计划 - Monad Buidler Camp
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-07
+<!-- DAILY_CHECKIN_2026-07-07_START -->
+### 学习了链上转账的链上分析
 
+  
+From: 發送這筆交易的來源錢包地址
 
+Interacted With (To): Tether USD (USDT) 合約
+
+ERC-20 Tokens Transferred: 從用戶A 錢包轉 651.13 USDT 到用戶 B
+
+Input Data: 呼叫了 transfer function
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/monad-builder-camp/main/assets/mini-zoro/images/2026-07-06-1783354189243-image.png)
+
+以**Uniswap Swap为例**
+
+Transaction Action: 很直覺就可以知道用戶在 Uniswap 上進行 Swap，將 12,716 USDT 換成 7,118 UNDEAD。
+
+From: 發送這筆交易的來源錢包地址
+
+Interacted With (To): 這個例子是一個 MEV Bot 合約呼叫 Uniswap 合約進行 Swap
+
+ERC-20 Tokens Transferred: Token 交換的過程
+
+透過 phalcon 來看MEV Bot 呼叫 Uniswap V2 USDT/UNDEAD 交易對合約呼叫 [swap](https://docs.uniswap.org/contracts/v2/reference/smart-contracts/pair#swap-1)函示來進行代幣兌換。
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/monad-builder-camp/main/assets/mini-zoro/images/2026-07-06-1783354447776-image.png)
+<!-- DAILY_CHECKIN_2026-07-07_END -->
 <!-- Content_END -->

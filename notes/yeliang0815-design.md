@@ -15,6 +15,10 @@ Web3 暑期实习计划 - Monad Buidler Camp
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-06
+<!-- DAILY_CHECKIN_2026-07-06_START -->
+对以太坊，mon生态进一步的了解；需补充web3的基础知识
 
-
+![屏幕截图 2026-07-06 194854.png](https://raw.githubusercontent.com/IntensiveCoLearning/monad-builder-camp/main/assets/yeliang0815-design/images/2026-07-06-1783341954525-_____2026-07-06_194854.png)
+<!-- DAILY_CHECKIN_2026-07-06_END -->
 <!-- Content_END -->

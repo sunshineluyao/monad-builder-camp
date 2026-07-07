@@ -15,6 +15,10 @@ Web3 暑期实习计划 - Monad Buidler Camp
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-06
+<!-- DAILY_CHECKIN_2026-07-06_START -->
+zoom和x 回放看不了，只能看看文档，领了测试币
 
-
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/monad-builder-camp/main/assets/cointem/images/2026-07-06-1783348844294-image.png)
+<!-- DAILY_CHECKIN_2026-07-06_END -->
 <!-- Content_END -->

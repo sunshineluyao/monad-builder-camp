@@ -15,6 +15,12 @@ Web3 暑期实习计划 - Monad Buidler Camp
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-06
+<!-- DAILY_CHECKIN_2026-07-06_START -->
+观看了开营仪式，xiaohai老师的成长经历，还有8点的co-learning，观看苏生老师演示如何去做第一周的作业，
 
+[https://x.com/junxi667xqj/status/2074153062743384271?s=20](https://x.com/junxi667xqj/status/2074153062743384271?s=20)
 
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/monad-builder-camp/main/assets/xianyu104/images/2026-07-06-1783348774579-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/monad-builder-camp/main/assets/xianyu104/images/2026-07-06-1783348804349-image.png)
+<!-- DAILY_CHECKIN_2026-07-06_END -->
 <!-- Content_END -->

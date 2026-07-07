@@ -15,6 +15,23 @@ Web3 暑期实习计划 - Monad Buidler Camp
 ## Notes
 
 <!-- Content_START -->
+# 2026-07-06
+<!-- DAILY_CHECKIN_2026-07-06_START -->
+# 学习记录
 
+1.  Web3实习手册文档阅读（区块链基础概念、以太坊概览）
+    
+2.  DevRel分享会
+    
+3.  Co-learning学习及实操
+    
 
+创建MetaMask钱包-连接Monad test网络-Monad Faucet领水-区块链浏览器查询钱包
+
+钱包地址：0xF6CB170E122c467cE590C6292dC318a4d68Ff531
+
+# 明日计划
+
+完成链上测试网交易、部署solidity合约
+<!-- DAILY_CHECKIN_2026-07-06_END -->
 <!-- Content_END -->
