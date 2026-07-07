@@ -16,24 +16,6 @@ Web3 暑期实习计划 - Monad Buidler Camp
 
 <!-- Content_START -->
 
----
-
-## timezone: UTC+8
-
-# Sunshine
-
-**GitHub ID:** sunshineluyao
-
-**Telegram:**
-
-## Self-introduction
-
-Web3 暑期实习计划 - Monad Buidler Camp
-
-## Notes
-
-<!-- Content_START -->
-
 # 2026-07-06｜DAY 1：开营与 Web3 入门｜我为什么要进入链上世界？
 
 今天是 Web3 暑期实习计划的第一天。今天的重点是了解 Web3、区块链、以太坊、钱包、地址、交易、Gas 和智能合约等基础概念，并开始建立自己的 Week 1 Build Log。
