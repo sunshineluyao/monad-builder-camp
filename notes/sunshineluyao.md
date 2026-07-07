@@ -6,7 +6,7 @@ timezone: UTC+8
 
 **GitHub ID:** sunshineluyao
 
-**Telegram:** 
+**Telegram:** zlypioneer
 
 ## Self-introduction
 
@@ -218,9 +218,5 @@ DevRel，即 Developer Relations，是连接开发者、产品团队和社区的
 * [Telegram Desktop](https://desktop.telegram.org/)
 * [Discord](https://discord.com/)
 * [GitHub](https://github.com/)
-
-<!-- Content_END -->
-
-
 
 <!-- Content_END -->
